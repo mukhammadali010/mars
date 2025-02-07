@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 300px;
+}
+
+
+
+#ism{
+    width: 500px;
+    height: 40px;
+    background-color: red;
+    
+    font-size: 40px;
+    border-radius: 30px;
+    border: none;
+}
+
+form{
+    background-color: yellow;
+    width: 500px;
+}
